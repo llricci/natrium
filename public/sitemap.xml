@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://natrium.dev.br/about/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>http://natrium.dev.br/posts/first/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://natrium.dev.br/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://natrium.dev.br/posts/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://natrium.dev.br/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://natrium.dev.br/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/contact/</loc>
+    <loc>http://natrium.dev.br/tags/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://natrium.dev.br/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
+    <loc>http://natrium.dev.br/tags/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://natrium.dev.br/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://natrium.dev.br/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://natrium.dev.br/tags/</loc>
   </url>
 </urlset>
