@@ -1,0 +1,82 @@
+baseurl = "http://www.example.com"
+title = "Natrium"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+# [services]
+# [services.disqus]
+# shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Lucas Ricci"
+  info = "Student of Bachelor of Science and Technology"
+  description = "Lucas Ricci's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "/img/avatar.png"
+  #gravatar = "llricci@protonmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  # favicon_32 = "/img/favicon-32x32.png"
+  # favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2025
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/llricci/"
+  target = "_blank"
+[[params.social]]
+  name = "Bluesky"
+  icon = "fa-brands fa-bluesky fa-2x"
+  weight = 2
+  url = "https://bsky.app/profile/llricci.bsky.social"
+  target = "_blank"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/lucaslricci/"
+  target = "_blank"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
+[[menu.main]]
+  name = "Contact"
+  weight = 4
+  url = "contact/"
